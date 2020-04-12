@@ -1,7 +1,7 @@
 
 # ProjectRouteFinder
    # UDACITYNDCPP
-A fun code for finding shortest path
+A fun code for finding shortest path </n>
 between two coordinates( represented by 2d array or vector) 
 through basic c++ programming
 this program simply uses a* algorithm
